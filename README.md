@@ -7,7 +7,7 @@ Available as automated build on [DockerHub](https://hub.docker.com/r/mendlik/doc
 
 ## Usage:
 
-```bash
+```sh
 # Print random fortune cookie message
 $ docker run mendlik/docker-whalesay
 # Print custom message
