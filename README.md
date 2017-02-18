@@ -1,9 +1,10 @@
 # Cowsay docker project
 
-[![](https://badge.imagelayers.io/mendlik/docker-whalesay:latest.svg)](https://imagelayers.io/?images=mendlik/docker-whalesay:latest 'Get your own badge on imagelayers.io')
+[![Docker Stars](https://img.shields.io/docker/stars/mendlik/docker-whalesay.svg?style=flat)](https://hub.docker.com/r/mendlik/docker-whalesay/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mendlik/docker-whalesay.svg?style=flat)](https://hub.docker.com/r/mendlik/docker-whalesay/)
+[![Docker size and layers](https://images.microbadger.com/badges/image/mendlik/docker-whalesay.svg)](https://microbadger.com/images/mendlik/docker-whalesay)
 
-Whalesay docker image from [training material](https://docs.docker.com/linux/step_five/).
-Available as automated build on [DockerHub](https://hub.docker.com/r/mendlik/docker-whalesay/).
+Whalesay docker image from [training material](https://docs.docker.com/engine/getstarted/step_five/).
 
 ## Usage:
 
